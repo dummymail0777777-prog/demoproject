@@ -1,0 +1,58 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Android
+/app/build/
+/gradle/
+/gradlew
+/gradlew.bat
+/local.properties
+
+# iOS
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/ephemeral
+/ios/Flutter/Generated.xcconfig
+/ios/Runner.xcworkspace
+/ios/Runner.xcodeproj
+
+# macOS
+/build/macos/
+
+# Windows
+/build/windows/
+
+# Linux
+/build/linux/
+
+# Web
+/build/web/
+
+# Flutter
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/.pub-cache/
+/.pub/ 
+/build/
+
+# Analysis
+analysis_options.yaml
+
+# VS Code
+/.vscode/
+
+# Other
+.DS_Store
+*.log
+*.tmp
+*.temp
